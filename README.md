@@ -2,6 +2,8 @@
 user-friendly usability platform was obtained that sought to achieve the proposed objective and provide the user with contact with the benefits of group learning.
 
 RESUMO
+
+
 No processo de ensino-aprendizagem, o relacionamento entre estudantes é de grande
 importância, ainda mais na fase da adolescência, pois esta é caracterizada pela necessidade de
 pertencimento a um grupo. Tal experiência é dificultada em um contexto como o de suspensão
@@ -18,7 +20,11 @@ plataforma responsiva e de usabilidade amigável ao usuário que buscou alcança
 proposto e proporcionar ao usuário o contato com os benefícios do aprendizado em grupos.
 Palavras-chave: Tecnologias educacionais. COVID-19. Grupo de Estudos. Aprendizagem
 Colaborativa. Site Responsivo.
+
+
 ABSTRACT
+
+
 In the teaching-learning process, the relationship between students is of great importance,
 especially in the adolescence phase, as this is characterized by the need to belong to a group.
 Such an experience is made difficult in a context like the suspension of face-to-face classes
